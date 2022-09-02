@@ -17,7 +17,7 @@ export const ENTER = "ENTER";
 export const CLEAR = "⌫";
 
 export const keys = [
-  ["q", "w", "e", "r", "t", "y", "u", "i", "o", "p", "ğ", "ü"],
-  ["a", "s", "d", "f", "g", "h", "j", "k", "l", "ş", "İ"],
-  [ENTER, "z", "x", "c", "v", "b", "n", "m", "ö", "ç", CLEAR],
+  ["Q", "W", "E", "R", "T", "Y", "U", "I", "O", "P", "Ğ", "Ü"],
+  ["A", "S", "D", "F", "G", "H", "J", "K", "L", "Ş", "İ"],
+  [ENTER, "Z", "X", "C", "V", "B", "N", "M", "Ö", "Ç", CLEAR],
 ];

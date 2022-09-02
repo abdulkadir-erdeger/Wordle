@@ -19,7 +19,7 @@ export default function App() {
     setNumber(Math.floor(Math.random() * kelime.length));
   }, []);
 
-  const word = kelime[number].toLowerCase();
+  const word = kelime[number].toUpperCase();
   console.log(word);
   const letters = word.split(""); // ['h', 'e', 'l', 'l', 'o']
 
